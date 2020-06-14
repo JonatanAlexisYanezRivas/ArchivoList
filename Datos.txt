@@ -2,11 +2,8 @@
 {"nombre":"Fernando Gomez Sanchez","edad":"25","Sexo":"Masculino"}
 {"nombre":"Fustavo Fernandez Mesa","edad":"20","Sexo":"Masculino"}
 {"nombre":"Fernanda Salas Gutierrez","edad":"26","Sexo":"Femenino"}
-{"nombre":"Hello","edad":"Its","Sexo":"Me"}
-{"nombre":"Samuel Hernandez Ferrer","edad":"34","Sexo":"Masculino"}
-{"nombre":"Samuel Hernandez Ferrer","edad":"34","Sexo":"Masculino"}
 {"nombre":"Samuel Hernandez Ferrer","edad":"34","Sexo":"Masculino"}
 {"nombre":"Guadalupe Martinez","edad":"44","Sexo":"Femenino"}
 {"nombre":"David Lopez Mendez","edad":"18","Sexo":"Masculino"}
-{"nombre":"Hello","edad":"its me","Sexo":"again"}
 {"nombre":"s","edad":"s","Sexo":"s"}
+{"nombre":"prueba 3","edad":"34","Sexo":"Masculino"}
